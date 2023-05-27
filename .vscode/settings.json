@@ -1,0 +1,17 @@
+{
+    "Lua.diagnostics.globals": [
+        "CreateFramePool",
+        "ScrollUtil",
+        "CreateDataProvider",
+        "CreateScrollBoxListLinearView",
+        "GenerateClosure",
+        "CreateAnchor",
+        "ITEM_QUALITY_COLORS",
+        "GetCursorPosition",
+        "GameTooltip_SetDefaultAnchor",
+        "GameTooltip",
+        "GameTooltip_ShowProgressBar",
+        "ReloadUI",
+        "class"
+    ]
+}

@@ -1,0 +1,8 @@
+## Name: TheBoringDadsUI
+## Version: 0.1
+## Notes:
+## SavedVariables: TBD_DB_VENDORING
+## Dependencies: TheBoringdadsUI
+
+TheBoringDadsUI_Vendoring.lua
+TheBoringDadsUI_Vendoring.xml
